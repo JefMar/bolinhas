@@ -21,7 +21,7 @@ $(document).ready(function(){
     
   $('.blue').cick(function(){
       
-    $('.red').();  
+    $('.red').fadeIn();  
       
   })
     
